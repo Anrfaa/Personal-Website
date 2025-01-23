@@ -43,6 +43,9 @@
 }
 
 .about-me-content {
+    background: white;
+    border-radius: 1%;
+    padding: 5%;
     max-width: 800px;
     margin: 0 auto;
     text-align: left;
@@ -66,6 +69,15 @@
 
 .about-me-text p:last-child {
     margin-bottom: 0;
+}
+
+.signature {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #090236;
+    margin-top: 20px;
 }
 
 .about-gallery {
