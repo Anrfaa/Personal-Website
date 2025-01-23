@@ -26,7 +26,6 @@
 }
 
 .hero-content .btn {
-    background-color: #ff6347;
     color: white;
     padding: 10px 20px;
     text-decoration: none;
@@ -35,7 +34,7 @@
 }
 
 .hero-content .btn:hover {
-    background-color: #ff4500;
+    background-color: #090236;
 }
 
 .contact {
@@ -82,7 +81,7 @@
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
-    color: #090236; /* Theme color */
+    color: #090236;
 }
 
 .contact-form input[type="text"],
@@ -100,7 +99,7 @@
 .contact-form button {
     width: 100%;
     padding: 10px;
-    background-color: #090236; /* Theme color */
+    background-color: #090236;
     color: white;
     border: none;
     border-radius: 5px;
@@ -110,13 +109,13 @@
 }
 
 .contact-form button:hover {
-    background-color: #231965; /* Darker shade of theme color */
+    background-color: #231965;
 }
 
 .map-container {
     margin: 0;
     padding: 20px;
-    /* background: #090236; */
+
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     display: flex;
